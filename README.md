@@ -34,7 +34,6 @@ Below are the dependencies in my `packages.json` file:
   }
 ```
 
-
 Node version used is v12.22.6
 
 ### Library Usage:
