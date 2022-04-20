@@ -1,5 +1,4 @@
-# Ethereum Dapp for Tracking Items through Supply Chain
-<img src="../assets/undraw/project3.svg" width="200"/>
+# Ethereum Dapp for Tracking Shipments through Supply Chain
 
 
 ## Summary
