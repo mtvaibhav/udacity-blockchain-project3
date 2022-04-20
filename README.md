@@ -1,11 +1,6 @@
 # Ethereum Dapp for Tracking Items through Supply Chain
 <img src="../assets/undraw/project3.svg" width="200"/>
 
-## Submission Information
-- [x] [UML Diagrams](#UML-Diagrams)
-- [x] [Libraries Write-up](#Libraries-Write-up)
-- [x] [IPFS Write-up](#IPFS-Write-up)
-- [x] [General Write-up](#General-Write-up)
 
 ## Summary
 The purpose of this project is to learn web service architecture and web application implementations using Blockchain.  In this project, I have created a coffee supply chain solution on Ethereum using smart contracts with role and access  to track and verify a product's authenticity.  The code for this project is in the `coffee-supply-chain/` folder.
