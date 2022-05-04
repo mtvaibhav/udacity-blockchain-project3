@@ -30,7 +30,6 @@ Consumer: accounts[4]  0xd37b7b8c62be2fdde8daa9816483aebdbd356088
   10 passing (619ms)
 ```
 UML Diagrams
-I have created UML activity, sequence, and state diagrams which are included below.
 
 Activity Diagram
 ![Activity Diagram](images/uml/activity_diagram.png)
