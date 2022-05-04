@@ -7,7 +7,7 @@ This project contains an Ethereum DApp that demonstrates a Supply Chain flow bet
 
 
 ganache-cli accounts used here...
-
+```
 Contract Owner: accounts[0]  0x27d8d15cbc94527cadf5ec14b69519ae23288b95
 Farmer: accounts[1]  0x018c2dabef4904ecbd7118350a0c54dbeae3549a
 Distributor: accounts[2]  0xce5144391b4ab80668965f2cc4f2cc102380ef0a
@@ -15,7 +15,7 @@ Retailer: accounts[3]  0x460c31107dd048e34971e57da2f99f659add4f02
 Consumer: accounts[4]  0xd37b7b8c62be2fdde8daa9816483aebdbd356088
 
   Contract: SupplyChain
-    ✓ Testing smart contract function harvestItem() that allows a farmer to harvest coffee (108ms)\n
+    ✓ Testing smart contract function harvestItem() that allows a farmer to harvest coffee (108ms)
     ✓ Testing smart contract function processItem() that allows a farmer to process coffee (58ms)
     ✓ Testing smart contract function packItem() that allows a farmer to pack coffee (58ms)
     ✓ Testing smart contract function sellItem() that allows a farmer to sell coffee (55ms)
@@ -28,7 +28,7 @@ Consumer: accounts[4]  0xd37b7b8c62be2fdde8daa9816483aebdbd356088
 
 
   10 passing (619ms)
-
+```
 UML Diagrams
 I have created UML activity, sequence, and state diagrams which are included below.
 
