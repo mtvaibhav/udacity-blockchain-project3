@@ -15,7 +15,7 @@ Retailer: accounts[3]  0x460c31107dd048e34971e57da2f99f659add4f02
 Consumer: accounts[4]  0xd37b7b8c62be2fdde8daa9816483aebdbd356088
 
   Contract: SupplyChain
-    ✓ Testing smart contract function harvestItem() that allows a farmer to harvest coffee (108ms)
+    ✓ Testing smart contract function harvestItem() that allows a farmer to harvest coffee (108ms)\n
     ✓ Testing smart contract function processItem() that allows a farmer to process coffee (58ms)
     ✓ Testing smart contract function packItem() that allows a farmer to pack coffee (58ms)
     ✓ Testing smart contract function sellItem() that allows a farmer to sell coffee (55ms)
